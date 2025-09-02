@@ -1,0 +1,49 @@
+h1{
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    margin: 10px 20px 30px;
+    border-radius: 50%;
+}
+
+#green{
+    background-color: rgb(83, 230, 83);
+    /* border: 2px solid lightgreen; */
+}
+
+#red{
+    background-color: rgb(224, 85, 85);
+    /* border: 2px solid lightcoral; */
+}
+
+#yellow{
+    background-color: rgb(238, 238, 91);
+    /* border: 2px solid rgb(210, 210, 103); */
+}
+
+fieldset{
+    background-color: lightblue;
+    width: 200px;
+    padding: 20px;
+    border: 2px dashed ;
+    margin: 10px 20px 30px;
+    border-radius: 20px;
+}
+
+.box{
+    background-color: rgb(185, 231, 135);
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+
+.box1{
+    position: absolute;
+    background-color: brown;
+    /* left: 34px; */
+}
+
+.box2{
+    position: fixed;
+    background-color: purple;
+}
